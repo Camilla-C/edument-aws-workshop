@@ -32,3 +32,5 @@ routes.post('/injectfault', async (_, res) => {
 
 
 module.exports = routes;
+
+console.log('Hello')
